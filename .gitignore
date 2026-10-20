@@ -57,4 +57,4 @@ logs/
 # Build/Dist
 dist/
 build/
-document_portal.egg-info/
+document_portal.egg-info/ojas/
